@@ -3,8 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-Make a dev.js file in the config folder with your personal keys.<br>
-If you get an error pulling in the env. keys, then run NODE_ENV='development' npm run dev<br>
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
